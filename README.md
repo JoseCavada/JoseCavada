@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hola, soy José Cavada 👋
 
-<!--
-**JoseCavada/JoseCavada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un ingeniero de software con experiencia en **Python**, **Django**, **C#**, **.NET**, y **AI**. Me apasiona el desarrollo web y el análisis de datos.
+## 📚 Lenguajes y tecnologías
+- Python
+- Django
+- C#
+- .NET
+- SQL
+- JavaScript
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📬 Conéctate conmigo
+- LinkedIn: [@José Cavada](https://www.linkedin.com/in/josé-cavada-urzúa-82ab87181/)
